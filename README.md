@@ -30,3 +30,5 @@ Możliwe wartości `--backend`:
 - `gpu-batch`
 - `gpu-arithmetic`
 - `gpu-hybrid`
+
+Opcje z `gpu-*` są obecnie niedostępne.
